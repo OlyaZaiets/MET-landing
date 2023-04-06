@@ -1,5 +1,5 @@
 # Responsive landing page for The Metropolitan Museum of Art in NY 
- <a href="https://OlyaZaiets.github.io/MET-landing-/" style="font-size: 30px;">DEMO</a>
+ <a href="https://OlyaZaiets.github.io/MET-landing/" style="font-size: 30px;">DEMO</a>
  ## Stack technologies were used 💻:
    <h2 style="font-size: 24px;">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU" alt="HTML" width="20" height="20">
